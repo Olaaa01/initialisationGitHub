@@ -1,0 +1,14 @@
+# Spécifie que tous les fichiers avec l'extension .html sont du HTML
+*.html linguist-language=HTML
+
+# Spécifie que tous les fichiers avec l'extension .php sont du PHP
+*.php linguist-language=PHP
+
+# Spécifie que tous les fichiers avec l'extension .css sont du CSS
+*.css linguist-language=CSS
+
+# Spécifie que tous les fichiers avec l'extension .js sont du JS
+*.js linguist-language=JS
+
+# Spécifie que tous les fichiers avec l'extension .hack sont du Hack
+*.hack linguist-language=Hack
